@@ -1,0 +1,62 @@
+{
+	"tempHash": "00803F02CE901E3A",
+	"tbluHash": "00AF0EBB71375913",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"99ea4826e51e9d23",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_pCrowdMapResource",
+						"value": null
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"32f66ead6da052fc",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_pCrowdMapResource",
+						"value": null
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c9d0124550177bb3",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_pCrowdMapResource",
+						"value": null
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"4bcc175702d8c8ce",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_pCrowdMapResource",
+						"value": null
+					}
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"0f8d8dc11adfde56",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_pCrowdMapResource",
+						"value": null
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

@@ -1,0 +1,18 @@
+{
+	"tempHash": "00E221B04820C339",
+	"tbluHash": "00944C80C7C130DC",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"aea95b5fef337b24",
+				{
+					"SetPropertyValue": {
+						"property_name": "Crowd_Walla_Event",
+						"value": null
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

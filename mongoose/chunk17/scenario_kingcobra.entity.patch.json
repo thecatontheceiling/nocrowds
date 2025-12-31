@@ -1,0 +1,20 @@
+{
+	"tempHash": "00EFFE23BA968693",
+	"tbluHash": "008ADD3CCFA5B56E",
+	"patch": [
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "630ac105a633411f",
+					"externalScene": "[assembly:/_pro/scenes/missions/mumbai/scenario_mongoose.brick].pc_entitytype"
+				},
+				"propertyName": "m_pCrowdMapResource",
+				"propertyOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
+			}
+		}
+	],
+	"patchVersion": 6
+}

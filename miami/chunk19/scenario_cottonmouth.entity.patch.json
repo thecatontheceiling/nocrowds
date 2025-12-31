@@ -1,0 +1,20 @@
+{
+	"tempHash": "0076DCA438306FDA",
+	"tbluHash": "00B6EC5DBE5F3F4B",
+	"patch": [
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "f8fbaffff367d167",
+					"externalScene": "[assembly:/_pro/scenes/missions/miami/location.brick].pc_entitytype"
+				},
+				"propertyName": "m_pCrowdMapResource",
+				"propertyOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
+			}
+		}
+	],
+	"patchVersion": 6
+}

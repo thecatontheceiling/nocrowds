@@ -3,7 +3,87 @@
 	"version": "0.1.0",
 	"id": "Thecatinyourceiling.NoCrowds",
 	"name": "No Crowds",
-	"description": "Removes all crowd (or fake) NPCs from the game.",
+	"description": "Removes all crowd (fake) NPCs from the game.",
 	"authors": ["thecatinyourceiling"],
-	"frameworkVersion": "2.33.33"
+	"frameworkVersion": "2.33.33",
+	"options": [
+		{
+			"name": "Paris",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["paris"]
+		},
+		{
+			"name": "Sapienza",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["coastaltown"]
+		},
+		{
+			"name": "Marrakesh",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["marrakesh"]
+		},
+		{
+			"name": "Miami",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["miami"]
+		},
+		{
+			"name": "Mumbai",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["mongoose"]
+		},
+		{
+			"name": "Isle of Sgail",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["theark"]
+		},
+		{
+			"name": "Himmelstein",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["hawk"]
+		},
+		{
+			"name": "Hantu Port",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["caged"]
+		},
+		{
+			"name": "Mendoza",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["elegant"]
+		},
+		{
+			"name": "Berlin",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["edgy"]
+		},
+		{
+			"name": "Dartmoor",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["ancestral"]
+		},
+		{
+			"name": "Dubai",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["golden"]
+		},
+		{
+			"name": "ICA Facility",
+			"type": "checkbox",
+			"enabledByDefault": true,
+			"contentFolders": ["facility"]
+		}
+	]
 }

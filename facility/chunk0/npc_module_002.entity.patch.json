@@ -1,0 +1,18 @@
+{
+	"tempHash": "006C9343BBF34191",
+	"tbluHash": "00CDBB69B1C4208A",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"a7c09f884f1c35d0",
+				{
+					"SetPropertyValue": {
+						"property_name": "m_pCrowdMapResource",
+						"value": null
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

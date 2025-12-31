@@ -1,0 +1,33 @@
+{
+	"tempHash": "00250CEFFB630F13",
+	"tbluHash": "004FEBFEEA1D4177",
+	"patch": [
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "347a0672477e87f9",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_pCrowdMapResource",
+				"propertyOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
+			}
+		},
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "9b9f8e3c44090903",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_pCrowdMapResource",
+				"propertyOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
+			}
+		}
+	],
+	"patchVersion": 6
+}

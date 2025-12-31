@@ -1,0 +1,20 @@
+{
+	"tempHash": "00EF1F6E111F6F08",
+	"tbluHash": "00E5855B85782261",
+	"patch": [
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "8680b8ec71c718b0",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_pCrowdMapResource",
+				"propertyOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
+			}
+		}
+	],
+	"patchVersion": 6
+}

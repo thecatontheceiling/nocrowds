@@ -1,0 +1,20 @@
+{
+	"tempHash": "0055486EA3252294",
+	"tbluHash": "00B7B1AF723031B8",
+	"patch": [
+		{
+			"AddPropertyOverrideConnection": {
+				"entity": {
+					"ref": "72eab494aa189eef",
+					"externalScene": "[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"
+				},
+				"propertyName": "m_pCrowdMapResource",
+				"propertyOverride": {
+					"type": "ZRuntimeResourceID",
+					"value": null
+				}
+			}
+		}
+	],
+	"patchVersion": 6
+}
