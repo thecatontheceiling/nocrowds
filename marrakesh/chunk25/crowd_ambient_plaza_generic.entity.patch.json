@@ -2,16 +2,473 @@
 	"tempHash": "003B9217A5BF5A00",
 	"tbluHash": "00EBC9B9C73B4871",
 	"patch": [
+		{ "RemoveEntityByID": "dcfafe5f7f055fa0" },
+		{ "RemoveEntityByID": "0bd62d0a4811425b" },
+		{ "RemoveEntityByID": "4090845b9daea4a9" },
+		{ "RemoveEntityByID": "f4ebe3c512e3f4d0" },
+		{ "RemoveEntityByID": "e51994030b78a089" },
+		{ "RemoveEntityByID": "f57cd1c6cb53bd59" },
+		{ "RemoveEntityByID": "47db0662824d524d" },
+		{ "RemoveEntityByID": "c2220d4529a8a790" },
+		{ "RemoveEntityByID": "5c29d1e7eedadd58" },
+		{ "RemoveEntityByID": "690e619bb4229b0f" },
+		{ "RemoveEntityByID": "f54cee12880982e2" },
+		{ "RemoveEntityByID": "5cf44f886fbc88e3" },
+		{ "RemoveEntityByID": "59e9476671fc8363" },
+		{ "RemoveEntityByID": "6982e97ee4994cb6" },
+		{ "RemoveEntityByID": "5925f68315c5e679" },
+		{ "RemoveEntityByID": "6bcb7df6d7cac41e" },
+		{ "RemoveEntityByID": "2ed65a78387f2e64" },
+		{ "RemoveEntityByID": "5a5a13fa6dc0823d" },
+		{ "RemoveEntityByID": "ca818d2d16cc7726" },
+		{ "RemoveEntityByID": "9940625b828b8a03" },
+		{ "RemoveEntityByID": "93823ac5d286e619" },
+		{ "RemoveEntityByID": "39b8af215fd323a3" },
+		{ "RemoveEntityByID": "3540e2f9cfc69683" },
+		{ "RemoveEntityByID": "d492d17c45d1df2a" },
+		{ "RemoveEntityByID": "907853d2b352ac7c" },
+		{ "RemoveEntityByID": "060e3b48b490549f" },
+		{ "RemoveEntityByID": "6b0432796caff98b" },
+		{ "RemoveEntityByID": "ac264df2659d8e55" },
+		{ "RemoveEntityByID": "68f8644bfc700f6d" },
+		{ "RemoveEntityByID": "efd0f8cb6bb69837" },
+		{ "RemoveEntityByID": "dd58061fd4977cf8" },
+		{ "RemoveEntityByID": "1762173801711ba5" },
+		{ "RemoveEntityByID": "c42862f216bfd908" },
+		{ "RemoveEntityByID": "a53b5424a08a5d9a" },
+		{ "RemoveEntityByID": "eef413c9a0bb4bc5" },
+		{ "RemoveEntityByID": "13dd4bd63cbcfbdd" },
+		{ "RemoveEntityByID": "c2416f519fedb162" },
+		{ "RemoveEntityByID": "f99dde51af0193a2" },
+		{ "RemoveEntityByID": "e8da9c4cfc8ec5bb" },
+		{ "RemoveEntityByID": "24c35d2f04ba9deb" },
+		{ "RemoveEntityByID": "a3f09566939169e3" },
+		{ "RemoveEntityByID": "06c8a1cd489ae738" },
+		{ "RemoveEntityByID": "fa21f1d1bac9e9a2" },
+		{ "RemoveEntityByID": "e643e572cda131eb" },
+		{ "RemoveEntityByID": "c4bcfb4308034c26" },
+		{ "RemoveEntityByID": "cc2e7e28ff9ab019" },
+		{ "RemoveEntityByID": "7d1647fc4da83be5" },
+		{ "RemoveEntityByID": "8294a0acd4355b2f" },
+		{ "RemoveEntityByID": "d6bf71f5a7a88082" },
+		{ "RemoveEntityByID": "539285f1ac983f8f" },
+		{ "RemoveEntityByID": "c905fab6c42b6c17" },
+		{ "RemoveEntityByID": "22843b19db0902f1" },
+		{ "RemoveEntityByID": "4dce4e5f0cc39462" },
+		{ "RemoveEntityByID": "88664bbfe2c2af5c" },
+		{ "RemoveEntityByID": "0692073c80cc188e" },
+		{ "RemoveEntityByID": "b9bd63d06839f0bb" },
+		{ "RemoveEntityByID": "421ec8f919e11bac" },
+		{ "RemoveEntityByID": "efb4fdd81ae65a07" },
+		{ "RemoveEntityByID": "5c5fc11263917d95" },
+		{ "RemoveEntityByID": "7513bf821bdd3820" },
+		{ "RemoveEntityByID": "aceea309ffeee835" },
+		{ "RemoveEntityByID": "d7cf02474aefa48f" },
+		{ "RemoveEntityByID": "9444bb318c3fb2a5" },
+		{ "RemoveEntityByID": "9385445f329f3ff4" },
+		{ "RemoveEntityByID": "7c6547afb08ef1fa" },
+		{ "RemoveEntityByID": "3a4cac3c3831bb3c" },
+		{ "RemoveEntityByID": "a9dd12c6ad43262e" },
+		{ "RemoveEntityByID": "898010e74787175c" },
+		{ "RemoveEntityByID": "72f45fb8b20aeeba" },
+		{ "RemoveEntityByID": "0c9672d02d2538bf" },
+		{ "RemoveEntityByID": "54928bb99e782458" },
+		{ "RemoveEntityByID": "a22cc3b55794c365" },
+		{ "RemoveEntityByID": "489da508ef5ca11e" },
+		{ "RemoveEntityByID": "265a7b9ee74df34f" },
+		{ "RemoveEntityByID": "74c7b636ee618795" },
+		{ "RemoveEntityByID": "115d5170942eab48" },
+		{ "RemoveEntityByID": "f8faa298f2e67f81" },
+		{ "RemoveEntityByID": "bcd47c685bde112c" },
+		{ "RemoveEntityByID": "74b2a00fb09d134c" },
+		{ "RemoveEntityByID": "91e6d0d6c435a8e2" },
+		{ "RemoveEntityByID": "0e5e68e033b4c4f9" },
+		{ "RemoveEntityByID": "1db8743a0eaca649" },
+		{ "RemoveEntityByID": "0d5caf810fec1b66" },
+		{ "RemoveEntityByID": "a2d73f6667a2fa2c" },
+		{ "RemoveEntityByID": "4441989948049bcd" },
+		{ "RemoveEntityByID": "2cf3f27d02cc216b" },
+		{ "RemoveEntityByID": "7589997cf57c803f" },
+		{ "RemoveEntityByID": "9e0dc8ed46d5b632" },
+		{ "RemoveEntityByID": "36dc005d2ce000a8" },
+		{ "RemoveEntityByID": "6d8c558b7ae7d746" },
+		{ "RemoveEntityByID": "a450a58acc73b323" },
+		{ "RemoveEntityByID": "d56a28e920fb8f1d" },
+		{ "RemoveEntityByID": "7a5a1b55bcb6deeb" },
+		{ "RemoveEntityByID": "e14db006b3581d75" },
+		{ "RemoveEntityByID": "4d557362a9b8dfb3" },
+		{ "RemoveEntityByID": "333ef68af956a84e" },
+		{ "RemoveEntityByID": "73e15a33a3841456" },
+		{ "RemoveEntityByID": "dd3fdbb2a5036b4a" },
+		{ "RemoveEntityByID": "613f0b6af1e78e01" },
+		{ "RemoveEntityByID": "d3d1ca7a3c8d501e" },
+		{ "RemoveEntityByID": "a48c91a00774709c" },
+		{ "RemoveEntityByID": "78d1a1dfc44aa820" },
+		{ "RemoveEntityByID": "3e401533a0ed5931" },
+		{ "RemoveEntityByID": "f8720b7c3e124627" },
+		{ "RemoveEntityByID": "3781066746ce14b4" },
+		{ "RemoveEntityByID": "1e0032c93521e32f" },
+		{ "RemoveEntityByID": "a000155b6f745b33" },
+		{ "RemoveEntityByID": "2930ef182f53201c" },
+		{ "RemoveEntityByID": "eb9474ea1e35984a" },
+		{ "RemoveEntityByID": "a2e9461807bd6db2" },
+		{ "RemoveEntityByID": "9e6c7d0360bb6b6a" },
+		{ "RemoveEntityByID": "4fa04adfcaed1c34" },
+		{ "RemoveEntityByID": "3acae7d2d429dd5f" },
+		{ "RemoveEntityByID": "2c57e61d86c91efa" },
+		{ "RemoveEntityByID": "7c3a52ef2d35d10a" },
+		{ "RemoveEntityByID": "6633e59606fefb4b" },
+		{ "RemoveEntityByID": "6a6e193a6187a058" },
+		{ "RemoveEntityByID": "6b489bb1361c3198" },
+		{ "RemoveEntityByID": "ee155df4aa1794e4" },
+		{ "RemoveEntityByID": "09b26e339cdda390" },
+		{ "RemoveEntityByID": "13409e27713c4277" },
+		{ "RemoveEntityByID": "353962a6d909e654" },
+		{ "RemoveEntityByID": "40d999942f0160ed" },
+		{ "RemoveEntityByID": "b044f1a9215cd984" },
+		{ "RemoveEntityByID": "1bc046883d8d202c" },
+		{ "RemoveEntityByID": "d98188dfcc079508" },
+		{ "RemoveEntityByID": "6a2a55340a8d569d" },
+		{ "RemoveEntityByID": "ed011d06847b2a9c" },
+		{ "RemoveEntityByID": "117772da980fe2bb" },
+		{ "RemoveEntityByID": "356de64f29152290" },
+		{ "RemoveEntityByID": "0cc028a487a5beed" },
+		{ "RemoveEntityByID": "51e964903aee374d" },
+		{ "RemoveEntityByID": "6d3afc9507691f1e" },
+		{ "RemoveEntityByID": "273250eed9f3df8f" },
+		{ "RemoveEntityByID": "bcd8c17ba6146752" },
+		{ "RemoveEntityByID": "09a784bfa54ecf27" },
+		{ "RemoveEntityByID": "eb31e22c5f184373" },
+		{ "RemoveEntityByID": "55a721a9630990f6" },
+		{ "RemoveEntityByID": "9198feeca0907424" },
+		{ "RemoveEntityByID": "2070459853effa02" },
+		{ "RemoveEntityByID": "f23ad721ef6db162" },
+		{ "RemoveEntityByID": "878723a72effe04d" },
+		{ "RemoveEntityByID": "86a2496b7666a7d5" },
+		{ "RemoveEntityByID": "00187321a8760ece" },
+		{ "RemoveEntityByID": "fd6c504a40eb3e08" },
+		{ "RemoveEntityByID": "7aa8930afdb785db" },
+		{ "RemoveEntityByID": "35d80f51216ae8d4" },
+		{ "RemoveEntityByID": "59c5610f8946b094" },
+		{ "RemoveEntityByID": "cfd9dc56efde928a" },
+		{ "RemoveEntityByID": "c989fb35fbf21e82" },
+		{ "RemoveEntityByID": "ab9f93484237d188" },
+		{ "RemoveEntityByID": "17e75eea8a3b5f32" },
+		{ "RemoveEntityByID": "203687e4f65400b1" },
+		{ "RemoveEntityByID": "61cee31614449477" },
+		{ "RemoveEntityByID": "ae4f4359513bf577" },
+		{ "RemoveEntityByID": "17bb185021b47e6c" },
+		{ "RemoveEntityByID": "fd8ca541546910f8" },
+		{ "RemoveEntityByID": "711aa43f430a666a" },
+		{ "RemoveEntityByID": "bc1c7f048472a59b" },
+		{ "RemoveEntityByID": "7c2f928bfab8811a" },
+		{ "RemoveEntityByID": "51d92a0767154b30" },
+		{ "RemoveEntityByID": "c2fdf2c1118237a9" },
+		{ "RemoveEntityByID": "8b21da0407731650" },
 		{
-			"SubEntityOperation": [
-				"4fa04adfcaed1c34",
-				{
-					"SetPropertyValue": {
-						"property_name": "m_pCrowdMapResource",
-						"value": null
-					}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "02b39c902b1908ff",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_AIAreas",
+				"propertyOverride": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						{
+							"ref": "78899765819af820",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "49a800c6a7dc265b",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "7fb2a7a4045f65a5",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "1a2225b07898d3fd",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "66faa6417180b20e",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "35eaa15fe011c8be",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "1612a3d724e67165",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "810b664dc6dcc042",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "5251962be0be818e",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "418a07e1c06503bf",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "c60af3167ee96cdb",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "7134ad84502b68ba",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "e60679992f54bcd4",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "d2f9ae462ce02dbd",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "261b92e3844488c4",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "a169c01c4b0afa09",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "f87856fd16da73c6",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "ad011f7107eff120",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "43fd5a86b098ceb9",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "22702853347ed4e7",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "2931dbbff5d4fb82",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "88acbb12d3672871",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "85d0b46d55e41d2e",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "dc7e6f45030616d0",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "a37c9bc3b9454b71",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "a0c4b3aea69d47c0",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "ca9775108f87fdf1",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "61dd091740d8b1bc",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "75a5758cdf61f485",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "4df0eda62996b775",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "3f7ce1b6fd3a3150",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "2056736281ebd09e",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "9a59b111c89c0a25",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "b3da2d375728b99a",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "c929aa228040e4bc",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "0c006ea4cc05c46c",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "81e1a91a20bd2f27",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "fcea06bb22e65b96",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "e7a1cd020bb8e482",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "20be20e5e64c505c",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "05290d8cb282bc69",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "b806289b574842bf",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "48c652c6ead8cecf",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "a89106a9d4b4b754",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "678d9506b07f8270",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "4ba8c851df729287",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "2b05de069ad7de1f",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "5a85339ef27ff9b3",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "b9ca73347b23e1d1",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "a6834b9d458dfa95",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "c402adb6c4122ace",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "9a599506f4383085",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "90e601b5004ee4ba",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "b4bf632fc2a4a00e",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "028d2cca9e029f4a",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "a1fe1f5546c1e507",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "deba7cd075c36930",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "dc4291997f79a153",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "9fc6a0f1f2a3b00c",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "d55331a2ceb2cf50",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "198e493e41cdc166",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "0dc15a9b87affb5d",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "a3783980ad29d281",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "ee1021af4ee7ef03",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "80eb69d917502664",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "2182cfc75fcaa269",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "7038cf6542c7da6b",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						"4dce4e5f0cc39462",
+						"0c9672d02d2538bf",
+						"78d1a1dfc44aa820",
+						"c2416f519fedb162",
+						"c4bcfb4308034c26",
+						"bcd47c685bde112c",
+						"ac264df2659d8e55",
+						"1762173801711ba5",
+						"54928bb99e782458",
+						"613f0b6af1e78e01",
+						"3a4cac3c3831bb3c",
+						"2930ef182f53201c",
+						"3781066746ce14b4",
+						"d6bf71f5a7a88082",
+						"7513bf821bdd3820",
+						"5cf44f886fbc88e3",
+						"4d557362a9b8dfb3"
+					]
 				}
-			]
+			}
+		},
+		{
+			"RemoveOverrideDelete": {
+				"ref": "9369554c21dd9741",
+				"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+			}
 		}
 	],
 	"patchVersion": 6

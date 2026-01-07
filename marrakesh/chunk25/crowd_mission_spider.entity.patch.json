@@ -2,16 +2,202 @@
 	"tempHash": "00E221B04820C339",
 	"tbluHash": "00944C80C7C130DC",
 	"patch": [
+		{ "RemoveEntityByID": "63d57776f3c613ad" },
+		{ "RemoveEntityByID": "b826f5f9e39d2bad" },
+		{ "RemoveEntityByID": "043a3fcac507e350" },
+		{ "RemoveEntityByID": "9c370899489a78d1" },
+		{ "RemoveEntityByID": "2bdca87e107459a1" },
+		{ "RemoveEntityByID": "8a97e238da7262d5" },
+		{ "RemoveEntityByID": "5323384d616771d4" },
+		{ "RemoveEntityByID": "f62cb88c9f2488a9" },
+		{ "RemoveEntityByID": "fa33a79db00c35ab" },
+		{ "RemoveEntityByID": "6562959ef8be6a5f" },
+		{ "RemoveEntityByID": "4c13f46575551b7a" },
+		{ "RemoveEntityByID": "5e531b1ec855ab57" },
+		{ "RemoveEntityByID": "1887085a39f0f731" },
+		{ "RemoveEntityByID": "3d05286873749df5" },
+		{ "RemoveEntityByID": "bf28c4456bf79d72" },
+		{ "RemoveEntityByID": "b9552230b24bed71" },
+		{ "RemoveEntityByID": "7ec40e5fd3bbbabc" },
+		{ "RemoveEntityByID": "75693680718efd11" },
+		{ "RemoveEntityByID": "cf14ccae512c6a1c" },
+		{ "RemoveEntityByID": "8f9c678cb5508a9d" },
+		{ "RemoveEntityByID": "0bde0b0781f577b0" },
+		{ "RemoveEntityByID": "9d9f74cc69c9f0b4" },
+		{ "RemoveEntityByID": "405cd99c17ba3d8c" },
+		{ "RemoveEntityByID": "d3359b822a4203ae" },
+		{ "RemoveEntityByID": "1e815b01733efa9c" },
+		{ "RemoveEntityByID": "0a63e9d0b47280f4" },
+		{ "RemoveEntityByID": "e9d800b27bf9f56f" },
+		{ "RemoveEntityByID": "475a4cde98a5ce37" },
+		{ "RemoveEntityByID": "7cdeb1c1a0dde175" },
+		{ "RemoveEntityByID": "debcc60b8b5d1e55" },
+		{ "RemoveEntityByID": "b9ee2ee8ffb5a2cc" },
+		{ "RemoveEntityByID": "4f089bc1311e3617" },
+		{ "RemoveEntityByID": "cc1c7634f3c7784b" },
+		{ "RemoveEntityByID": "59a8fb8c7cb738b7" },
+		{ "RemoveEntityByID": "00d726102e669c29" },
+		{ "RemoveEntityByID": "5082db9bebb13598" },
+		{ "RemoveEntityByID": "a9872666df8f1272" },
+		{ "RemoveEntityByID": "ad8e367f13e6d4f1" },
+		{ "RemoveEntityByID": "470cdb15250f77eb" },
+		{ "RemoveEntityByID": "c7e7cd837f0c25ca" },
+		{ "RemoveEntityByID": "3131da0c1ab3d9ed" },
+		{ "RemoveEntityByID": "0619fae8358a1748" },
+		{ "RemoveEntityByID": "f6ca6ebffdf97398" },
+		{ "RemoveEntityByID": "9cb745990cb0b0c6" },
+		{ "RemoveEntityByID": "0f3bc0c285d6c59e" },
+		{ "RemoveEntityByID": "9a3654f7e62b9d29" },
+		{ "RemoveEntityByID": "9473d0a09e414406" },
+		{ "RemoveEntityByID": "733d05f6944778d4" },
+		{ "RemoveEntityByID": "3642f59680273e83" },
+		{ "RemoveEntityByID": "ce90a9517c3be746" },
+		{ "RemoveEntityByID": "6542e93676b4d35b" },
+		{ "RemoveEntityByID": "b59a038b2f2db3fc" },
+		{ "RemoveEntityByID": "d9583f9728ed4815" },
+		{ "RemoveEntityByID": "bbc557703d51736b" },
+		{ "RemoveEntityByID": "696c9e3d57485fcd" },
+		{ "RemoveEntityByID": "c25cc4a21239cb6b" },
+		{ "RemoveEntityByID": "ea5436c199da0425" },
+		{ "RemoveEntityByID": "a2740bc2ec5bc417" },
+		{ "RemoveEntityByID": "923bc374548ed31b" },
+		{ "RemoveEntityByID": "be002fa18b94c4cb" },
+		{ "RemoveEntityByID": "1a8842152b1d999e" },
+		{ "RemoveEntityByID": "a4a6546e873a6cdd" },
+		{ "RemoveEntityByID": "1f2fdf76f149b607" },
+		{ "RemoveEntityByID": "40189a59565468d0" },
+		{ "RemoveEntityByID": "7e5e622bb3201d63" },
+		{ "RemoveEntityByID": "cdb5c86d57a6f4f0" },
+		{ "RemoveEntityByID": "26e817dccf86ea9d" },
+		{ "RemoveEntityByID": "a6c40be3f34f6380" },
+		{ "RemoveEntityByID": "8ac274ebf1e1414b" },
+		{ "RemoveEntityByID": "d211373437f8d49a" },
+		{ "RemoveEntityByID": "347a0fc198962c18" },
+		{ "RemoveEntityByID": "b957ca7c6682c68f" },
+		{ "RemoveEntityByID": "15f71be3d7d4e0ba" },
+		{ "RemoveEntityByID": "5b159e33f10f410e" },
+		{ "RemoveEntityByID": "cd0a8c975955d672" },
+		{ "RemoveEntityByID": "b059701a77380355" },
+		{ "RemoveEntityByID": "dc99bad670dddbd1" },
+		{ "RemoveEntityByID": "a7cf2457fed1e515" },
+		{ "RemoveEntityByID": "5af5e4f4be9c7588" },
+		{ "RemoveEntityByID": "3708e7609526ee2f" },
+		{ "RemoveEntityByID": "347afffb4a1001fc" },
+		{ "RemoveEntityByID": "94fd4b010ecc365d" },
+		{ "RemoveEntityByID": "8331e049f9c4f099" },
+		{ "RemoveEntityByID": "c79887fe715158b7" },
+		{ "RemoveEntityByID": "531d967c9ef53316" },
+		{ "RemoveEntityByID": "454a5ee8a3432fd0" },
+		{ "RemoveEntityByID": "36e95842ced723da" },
+		{ "RemoveEntityByID": "edd227726a241202" },
+		{ "RemoveEntityByID": "12d83e419dcef6aa" },
+		{ "RemoveEntityByID": "bca05d72b3f84874" },
+		{ "RemoveEntityByID": "f4c37abd57b13ab6" },
+		{ "RemoveEntityByID": "86d60632e45f9ddb" },
+		{ "RemoveEntityByID": "c36961feb3938b90" },
+		{ "RemoveEntityByID": "a26d2ecd638a496a" },
+		{ "RemoveEntityByID": "4ce08d3fe15f9423" },
+		{ "RemoveEntityByID": "3f0d9ecb9a38e463" },
+		{ "RemoveEntityByID": "f49aa2382cb9b7c1" },
+		{ "RemoveEntityByID": "b081686065ca92e3" },
+		{ "RemoveEntityByID": "9de6170e7da76439" },
+		{ "RemoveEntityByID": "53785dbcedbb6342" },
+		{ "RemoveEntityByID": "3567bd88c377e23b" },
+		{ "RemoveEntityByID": "2fe23b30ba3ca523" },
+		{ "RemoveEntityByID": "b6149bea83cd1f98" },
+		{ "RemoveEntityByID": "735412053b36ee18" },
+		{ "RemoveEntityByID": "70e373e02321472b" },
+		{ "RemoveEntityByID": "92bdf8bfc9ac3822" },
+		{ "RemoveEntityByID": "ac7c53445e8889af" },
+		{ "RemoveEntityByID": "aea95b5fef337b24" },
+		{ "RemoveEntityByID": "9a47de188e8cbc0c" },
+		{ "RemoveEntityByID": "05b265b3cef50b64" },
+		{ "RemoveEntityByID": "2974a738c62ad878" },
 		{
-			"SubEntityOperation": [
-				"aea95b5fef337b24",
-				{
-					"SetPropertyValue": {
-						"property_name": "Crowd_Walla_Event",
-						"value": null
-					}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "60b3019da563c033",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_aExcludedActorTemplates",
+				"propertyOverride": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						{
+							"ref": "ca9648846a105ff7",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "6f0cec2a25e96570",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "997d698334518e33",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "be81034932639d0b",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "68b16d5a6c75d4f5",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "243a40b5cb434602",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "2342f561ead209cf",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "17732650b74a503e",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "c16ab98bcef89cb3",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "7d41b1aa31169faf",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "f9b09d23e1f4de4d",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "b74f01e262c68d1f",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "ca44f0f40a980d72",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "489885cbfd77061e",
+							"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+						}
+					]
 				}
-			]
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "60b3019da563c033",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_nGroupSize",
+				"propertyOverride": { "type": "uint32", "value": 95 }
+			}
+		},
+		{
+			"RemoveOverrideDelete": {
+				"ref": "b3c43318b1ad91db",
+				"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+			}
 		}
 	],
 	"patchVersion": 6

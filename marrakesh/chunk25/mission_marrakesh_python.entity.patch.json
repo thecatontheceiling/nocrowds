@@ -3,7 +3,31 @@
 	"tbluHash": "00E5855B85782261",
 	"patch": [
 		{
-			"AddPropertyOverrideConnection": {
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "78ecc96f7052e26c",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 89.99994270422063
+						},
+						"position": {
+							"x": 43.59410095214844,
+							"y": 41.5218391418457,
+							"z": 0.000011000000085914508
+						}
+					}
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
 				"entity": {
 					"ref": "8680b8ec71c718b0",
 					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
@@ -11,8 +35,109 @@
 				"propertyName": "m_pCrowdMapResource",
 				"propertyOverride": {
 					"type": "ZRuntimeResourceID",
-					"value": null
+					"value": {
+						"resource": "[assembly:/_pro/scenes/missions/marrakesh/_scene_mission_python_crowd_marketplace.crmd].pc_crmd",
+						"flag": "5F"
+					}
 				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "feaab90f78914300",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -84.99992963343513
+						},
+						"position": {
+							"x": -3.644431114196778,
+							"y": -25.21803092956543,
+							"z": 0.000011000000085914508
+						}
+					}
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "efc78060e1105c01",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -89.99994270422063
+						},
+						"position": {
+							"x": -3.5499091148376465,
+							"y": -41.23637008666992,
+							"z": 0.000011000000085914508
+						}
+					}
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "3c71bc7a5c84b074",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 99.9999308945558
+						},
+						"position": {
+							"x": 6.143304824829102,
+							"y": -11.936779975891112,
+							"z": 0.000011000000085914508
+						}
+					}
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "18da07f9883a9e22",
+					"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": 90.0 },
+						"position": {
+							"x": -0.12891900539398193,
+							"y": 39.11685943603515,
+							"z": 0.000012000000424450263
+						}
+					}
+				}
+			}
+		},
+		{
+			"RemoveOverrideDelete": {
+				"ref": "7e4ce8dc14960565",
+				"externalScene": "[assembly:/_pro/scenes/missions/marrakesh/crowd.brick].pc_entitytype"
 			}
 		}
 	],

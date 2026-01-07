@@ -2,18 +2,97 @@
 	"tempHash": "0055486EA3252294",
 	"tbluHash": "00B7B1AF723031B8",
 	"patch": [
+		{ "RemoveEntityByID": "0d5a8b478edf0928" },
+		{ "RemoveEntityByID": "bf1e1e3eccc2682e" },
+		{ "RemoveEntityByID": "9bcb48572e6ef5cc" },
+		{ "RemoveEntityByID": "b34aececdeec0355" },
+		{ "RemoveEntityByID": "a0cc697db0315360" },
+		{ "RemoveEntityByID": "982fe14f08f3c014" },
+		{ "RemoveEntityByID": "2fa1f0c06569cd44" },
+		{ "RemoveEntityByID": "2860e077965e916f" },
+		{ "RemoveEntityByID": "c8d8c0edc9ce1c3a" },
+		{ "RemoveEntityByID": "1313c44a4a118a36" },
+		{ "RemoveEntityByID": "a5b79b1cd5e2796d" },
+		{ "RemoveEntityByID": "0ff6f83d38a479fd" },
+		{ "RemoveEntityByID": "dc63eae43da83857" },
+		{ "RemoveEntityByID": "ee5689fdd91abd8c" },
+		{ "RemoveEntityByID": "91932b3b5e33bdf4" },
+		{ "RemoveEntityByID": "f380bc1c71ac161c" },
+		{ "RemoveEntityByID": "3143fea7ad8e0a2d" },
+		{ "RemoveEntityByID": "5b4af1c3d945c1fa" },
+		{ "RemoveEntityByID": "04bf49f398e50df6" },
+		{ "RemoveEntityByID": "c6e6626e7f3b93be" },
+		{ "RemoveEntityByID": "ceee786b79d76c84" },
+		{ "RemoveEntityByID": "57facae66508eae1" },
+		{ "RemoveEntityByID": "5f24dfbaf54b5b57" },
+		{ "RemoveEntityByID": "a0aa4f04e30b6579" },
+		{ "RemoveEntityByID": "1a3a839251f52e20" },
+		{ "RemoveEntityByID": "3ce6a9da39d098b9" },
+		{ "RemoveEntityByID": "0167f0ab432b669d" },
+		{ "RemoveEntityByID": "43e2ef6f1b13fd24" },
+		{ "RemoveEntityByID": "378328eb4d83a919" },
+		{ "RemoveEntityByID": "ffab5b97d79249fd" },
+		{ "RemoveEntityByID": "d8a6823ec671a3a9" },
+		{ "RemoveEntityByID": "dba8b625c5b18757" },
+		{ "RemoveEntityByID": "7bbf026b9035f362" },
+		{ "RemoveEntityByID": "0fdc7d6adaaa93bd" },
+		{ "RemoveEntityByID": "2e72d3c4f8f40853" },
+		{ "RemoveEntityByID": "c8c4ad5d923d6727" },
+		{ "RemoveEntityByID": "c0fb12fe9e6173fd" },
+		{ "RemoveEntityByID": "37878754a6cfb9ea" },
+		{ "RemoveEntityByID": "0d4edb032db26be4" },
+		{ "RemoveEntityByID": "4014c415ec666d71" },
+		{ "RemoveEntityByID": "d2bcbc6a48157659" },
+		{ "RemoveEntityByID": "ee9ad761ff141aee" },
+		{ "RemoveEntityByID": "2024a7300bc34115" },
+		{ "RemoveEntityByID": "8ee0b65a24ff4e1f" },
+		{ "RemoveEntityByID": "9ee4bca650dd1bc4" },
+		{ "RemoveEntityByID": "2b2018b6ff144ff2" },
+		{ "RemoveEntityByID": "27b345123518eb83" },
+		{ "RemoveEntityByID": "5d1e5b7b70d65246" },
+		{ "RemoveEntityByID": "ad98e762c1046f08" },
+		{ "RemoveEntityByID": "1b4e5e920403deba" },
+		{ "RemoveEntityByID": "c777d5dc2a6140c8" },
+		{ "RemoveEntityByID": "d6ace814c765386b" },
+		{ "RemoveEntityByID": "c07aef0db31a745d" },
+		{ "RemoveEntityByID": "6879ab7f1392cccc" },
+		{ "RemoveEntityByID": "07217494e59aa0ca" },
+		{ "RemoveEntityByID": "ae53bff6b064738d" },
+		{ "RemoveEntityByID": "88eefd3c6418afc9" },
+		{ "RemoveEntityByID": "4f100eb402a862a7" },
+		{ "RemoveEntityByID": "634ece994f9253ef" },
+		{ "RemoveEntityByID": "c14df75b2a16b553" },
+		{ "RemoveEntityByID": "db39c23f0b14e1c2" },
+		{ "RemoveEntityByID": "4d83a24625a7a724" },
+		{ "RemoveEntityByID": "fe68b6730e4c00cd" },
+		{ "RemoveEntityByID": "d7e0494ccfca34ab" },
+		{ "RemoveEntityByID": "b41ecfddda3c65c5" },
+		{ "RemoveEntityByID": "c9261a5a92482c20" },
+		{ "RemoveEntityByID": "4aa1fa3993453159" },
+		{ "RemoveEntityByID": "c3925a430f653f4d" },
+		{ "RemoveEntityByID": "e13eebf687ffc035" },
+		{ "RemoveEntityByID": "d95a79402780c023" },
 		{
-			"AddPropertyOverrideConnection": {
-				"entity": {
-					"ref": "72eab494aa189eef",
-					"externalScene": "[assembly:/_pro/scenes/missions/theark/scenario_magpie.brick].pc_entitytype"
-				},
-				"propertyName": "m_pCrowdMapResource",
-				"propertyOverride": {
-					"type": "ZRuntimeResourceID",
-					"value": null
+			"SubEntityOperation": [
+				"331ef90cc9122a35",
+				{
+					"PatchArrayPropertyValue": ["m_aValues", [{ "RemoveItemByValue": "1b4e5e920403deba" }]]
 				}
-			}
+			]
+		},
+		{
+			"SubEntityOperation": ["038d5a9b514ceb23", { "RemoveAllEventConnectionsForEvent": "OnFalse" }]
+		},
+		{
+			"SubEntityOperation": ["038d5a9b514ceb23", { "RemoveAllEventConnectionsForEvent": "OnTrue" }]
+		},
+		{
+			"SubEntityOperation": [
+				"a6d48c02a1013785",
+				{
+					"PatchArrayPropertyValue": ["m_aHigherPriority", [{ "RemoveItemByValue": "c14df75b2a16b553" }]]
+				}
+			]
 		}
 	],
 	"patchVersion": 6

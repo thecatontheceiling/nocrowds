@@ -2,16 +2,309 @@
 	"tempHash": "00C6C53821368B23",
 	"tbluHash": "00223DB2460FEE23",
 	"patch": [
+		{ "RemoveEntityByID": "2dcfce63c80368b7" },
+		{ "RemoveEntityByID": "72e5415e3795ac9a" },
+		{ "RemoveEntityByID": "b8488b0c117d437b" },
+		{ "RemoveEntityByID": "9a15b93751bdb907" },
+		{ "RemoveEntityByID": "319bd76c3a622a82" },
+		{ "RemoveEntityByID": "bf5e3a77813a6310" },
+		{ "RemoveEntityByID": "a846334de4257929" },
+		{ "RemoveEntityByID": "3826ae53a35f9b2e" },
+		{ "RemoveEntityByID": "3767119c1525b899" },
+		{ "RemoveEntityByID": "5f6e8984a114e04b" },
+		{ "RemoveEntityByID": "2a1425350d3c174d" },
+		{ "RemoveEntityByID": "485c2751617cff43" },
+		{ "RemoveEntityByID": "09f51ea156866fb1" },
+		{ "RemoveEntityByID": "e990b8a39f630333" },
+		{ "RemoveEntityByID": "85be5036fe7adbec" },
+		{ "RemoveEntityByID": "f42e4ccfb079a58f" },
+		{ "RemoveEntityByID": "a54a372ee5c67b36" },
+		{ "RemoveEntityByID": "99757d998eb84abb" },
+		{ "RemoveEntityByID": "bdc07cb8b74c397e" },
+		{ "RemoveEntityByID": "0c900680e31dff5a" },
+		{ "RemoveEntityByID": "ebc9d93f43acdfb4" },
+		{ "RemoveEntityByID": "a9b226706512f56e" },
+		{ "RemoveEntityByID": "8d64d79dab831976" },
+		{ "RemoveEntityByID": "fb0e9541dc7be9da" },
+		{ "RemoveEntityByID": "ab3aa9775c35afda" },
+		{ "RemoveEntityByID": "ad8b1d3de6f5504e" },
+		{ "RemoveEntityByID": "000a8e9f88e08642" },
+		{ "RemoveEntityByID": "b4b3676192b0da2c" },
+		{ "RemoveEntityByID": "aa47a9f1fb46c9d2" },
+		{ "RemoveEntityByID": "76447e538d5c037e" },
+		{ "RemoveEntityByID": "e7b06cdea3df75e7" },
+		{ "RemoveEntityByID": "7aa473d543cad2d2" },
+		{ "RemoveEntityByID": "661205fcb78b01e4" },
+		{ "RemoveEntityByID": "2fbd1af26a25611a" },
+		{ "RemoveEntityByID": "67eb1bfa6d517fd7" },
+		{ "RemoveEntityByID": "81054b9b95948930" },
+		{ "RemoveEntityByID": "302b8d93a5155551" },
+		{ "RemoveEntityByID": "9423c5eb7dca634a" },
+		{ "RemoveEntityByID": "1883355734bf304a" },
+		{ "RemoveEntityByID": "11ce9bd6d4f2966b" },
+		{ "RemoveEntityByID": "4689bef72a42fef1" },
+		{ "RemoveEntityByID": "8a5c9b7745c3a82c" },
+		{ "RemoveEntityByID": "f68af26cb3988c48" },
+		{ "RemoveEntityByID": "8440b03e69823a8c" },
+		{ "RemoveEntityByID": "1d82ce26953b2e74" },
+		{ "RemoveEntityByID": "7ed7deeaf5016b06" },
+		{ "RemoveEntityByID": "59d6af2b850d960c" },
+		{ "RemoveEntityByID": "0cefabeef9032ed6" },
+		{ "RemoveEntityByID": "fc990e48607b1a7c" },
+		{ "RemoveEntityByID": "f6ed19b99a49e685" },
+		{ "RemoveEntityByID": "5f337777f8bfcde6" },
+		{ "RemoveEntityByID": "e46862c8dd6c02b2" },
+		{ "RemoveEntityByID": "2780637ed881d5cf" },
+		{ "RemoveEntityByID": "db1a99f9706d3ffb" },
+		{ "RemoveEntityByID": "5dd6d525114ff924" },
+		{ "RemoveEntityByID": "f6f98969d179310e" },
+		{ "RemoveEntityByID": "4b460df666b94f5b" },
+		{ "RemoveEntityByID": "5369a91558c25f56" },
+		{ "RemoveEntityByID": "03a40af678248262" },
+		{ "RemoveEntityByID": "4951791e60d1cee9" },
+		{ "RemoveEntityByID": "b1aeb215245d2715" },
+		{ "RemoveEntityByID": "37a8acd5ecdd5106" },
+		{ "RemoveEntityByID": "0365ec2a60eea812" },
+		{ "RemoveEntityByID": "7ff2e3c2b47e1f9a" },
+		{ "RemoveEntityByID": "d918749d93e5de9d" },
+		{ "RemoveEntityByID": "91f0e308b4907792" },
+		{ "RemoveEntityByID": "ff0b1c5698537556" },
+		{ "RemoveEntityByID": "63bde7f98246a2fc" },
+		{ "RemoveEntityByID": "5e4cb9e638049bdd" },
+		{ "RemoveEntityByID": "5b86dd5edc54ae2f" },
+		{ "RemoveEntityByID": "189be72bd56e640e" },
+		{ "RemoveEntityByID": "feb6828c6b0d7bbb" },
+		{ "RemoveEntityByID": "be34014966e70818" },
+		{ "RemoveEntityByID": "09dec8ceda69383c" },
+		{ "RemoveEntityByID": "318df62ffab2fd6b" },
+		{ "RemoveEntityByID": "fdaaece2b1393f31" },
+		{ "RemoveEntityByID": "3420c762ab2a2838" },
+		{ "RemoveEntityByID": "b9852604d595df62" },
+		{ "RemoveEntityByID": "075d97ef81e48e46" },
+		{ "RemoveEntityByID": "e090477d6a5ec796" },
+		{ "RemoveEntityByID": "0889cc572cd12e50" },
+		{ "RemoveEntityByID": "8a805de0ef59f627" },
+		{ "RemoveEntityByID": "f2e747483aee9de9" },
+		{ "RemoveEntityByID": "67f456173e01ea0f" },
+		{ "RemoveEntityByID": "47524d88bde5297a" },
+		{ "RemoveEntityByID": "3f58f3c24321a336" },
+		{ "RemoveEntityByID": "84f3ed9e4cc617d3" },
+		{ "RemoveEntityByID": "6070b79ce3f7d311" },
+		{ "RemoveEntityByID": "8fa163ce4672f011" },
+		{ "RemoveEntityByID": "4b703fa2e6210118" },
+		{ "RemoveEntityByID": "7b5cb84b82bdb476" },
+		{ "RemoveEntityByID": "d44e52c6c8ea3742" },
+		{ "RemoveEntityByID": "307ca5aa54a4b483" },
+		{ "RemoveEntityByID": "4f5aaeac32622f43" },
+		{ "RemoveEntityByID": "0fba0c8c6c650923" },
+		{ "RemoveEntityByID": "0303162a4402b159" },
+		{ "RemoveEntityByID": "f7a842c9866c539b" },
+		{ "RemoveEntityByID": "34064e7a7ae49847" },
+		{ "RemoveEntityByID": "6a96bbbbb8c50a44" },
+		{ "RemoveEntityByID": "94ff752fe8007cfb" },
+		{ "RemoveEntityByID": "33b0b4f5ef51d6d9" },
+		{ "RemoveEntityByID": "85c5d36ed49922bc" },
+		{ "RemoveEntityByID": "fb508ec71de53380" },
+		{ "RemoveEntityByID": "08afb4d7d752a340" },
+		{ "RemoveEntityByID": "4d974675687c119e" },
+		{ "RemoveEntityByID": "a1e0ada32af853c0" },
+		{ "RemoveEntityByID": "de58a13e1cee96ad" },
+		{ "RemoveEntityByID": "57753371128ce0c9" },
+		{ "RemoveEntityByID": "41808676f1e7dd1c" },
+		{ "RemoveEntityByID": "5fbbf2193de7710d" },
+		{ "RemoveEntityByID": "f93de27e26f030f3" },
+		{ "RemoveEntityByID": "fe6653db4e93837d" },
+		{ "RemoveEntityByID": "8483e42a14c3b520" },
+		{ "RemoveEntityByID": "ba22f53d74fa1886" },
+		{ "RemoveEntityByID": "68d8eb274d4ebf1f" },
+		{ "RemoveEntityByID": "f73948e63d11af5f" },
+		{ "RemoveEntityByID": "ad0d88c137f932ed" },
+		{ "RemoveEntityByID": "da64cf9a8d87ba0d" },
+		{ "RemoveEntityByID": "64a1086c90a29539" },
+		{ "RemoveEntityByID": "7047bf6f3c6cbd77" },
+		{ "RemoveEntityByID": "84a211fa0ec8f09d" },
+		{ "RemoveEntityByID": "716a95555eab468b" },
+		{ "RemoveEntityByID": "5c4457f8dad32c2d" },
+		{ "RemoveEntityByID": "f74087a5fc9925b8" },
+		{ "RemoveEntityByID": "fdbd723f147a5bda" },
+		{ "RemoveEntityByID": "edf53fdf05963c6a" },
+		{ "RemoveEntityByID": "39ff860d75605d42" },
+		{ "RemoveEntityByID": "e448123aa9a3e262" },
+		{ "RemoveEntityByID": "0ea5c27f03c23111" },
+		{ "RemoveEntityByID": "26c14d4eb355c0f6" },
+		{ "RemoveEntityByID": "511d6f56b3065af1" },
+		{ "RemoveEntityByID": "39306205eedec0c3" },
+		{ "RemoveEntityByID": "061b48e2a66f6951" },
+		{ "RemoveEntityByID": "0bac9ae480c4f252" },
+		{ "RemoveEntityByID": "f0590994043aabc6" },
+		{ "RemoveEntityByID": "410f71e0e79a58bd" },
+		{ "RemoveEntityByID": "2c3057959a2d11b6" },
+		{ "RemoveEntityByID": "5a4c0a37cf0386cc" },
+		{ "RemoveEntityByID": "38c157c839ca6f5f" },
+		{ "RemoveEntityByID": "65f55656667673e8" },
+		{ "RemoveEntityByID": "2dd40a0ca2659ac3" },
+		{ "RemoveEntityByID": "acc88c3a227dd464" },
+		{ "RemoveEntityByID": "83c6c12b3178b440" },
+		{ "RemoveEntityByID": "46c4f020e9a32e06" },
+		{ "RemoveEntityByID": "f5d1958c9b552c9b" },
+		{ "RemoveEntityByID": "e7ceb41e630af5a3" },
+		{ "RemoveEntityByID": "d9e1552a64e94f39" },
+		{ "RemoveEntityByID": "e88ab8cf31cc4670" },
+		{ "RemoveEntityByID": "6f18ea85e898074d" },
+		{ "RemoveEntityByID": "c7fffdd49620b1fc" },
+		{ "RemoveEntityByID": "547147fa27cd345f" },
+		{ "RemoveEntityByID": "7f4e7e80943feb54" },
+		{ "RemoveEntityByID": "eff8dd7401337962" },
+		{ "RemoveEntityByID": "8f747bc9e1f05040" },
+		{ "RemoveEntityByID": "b924ce2938b0be19" },
+		{ "RemoveEntityByID": "7c4a58c2977e906c" },
+		{ "RemoveEntityByID": "095bb7d807a9edc0" },
+		{ "RemoveEntityByID": "c4ece80310ccfaa2" },
+		{ "RemoveEntityByID": "6935eca4aad69215" },
+		{ "RemoveEntityByID": "4da6859897737c90" },
+		{ "RemoveEntityByID": "fefdf8a8198ec06b" },
+		{ "RemoveEntityByID": "7d7c4f2ca31ecd82" },
+		{ "RemoveEntityByID": "3304ad195187363a" },
+		{ "RemoveEntityByID": "8a0d26c0fc7dd591" },
+		{ "RemoveEntityByID": "1ed8d920aa59806f" },
+		{ "RemoveEntityByID": "3eaf5abc4319b050" },
+		{ "RemoveEntityByID": "1326989cfd54a8fc" },
+		{ "RemoveEntityByID": "24e8f4e97cbf7fb6" },
+		{ "RemoveEntityByID": "8b1b9dcd545226fb" },
+		{ "RemoveEntityByID": "056bb7ccc9741936" },
+		{ "RemoveEntityByID": "61db48d8d641a4a4" },
+		{ "RemoveEntityByID": "2e3b48b512701f4f" },
+		{ "RemoveEntityByID": "05c0c332265704ae" },
+		{ "RemoveEntityByID": "2d8b95e403c267a7" },
+		{ "RemoveEntityByID": "c916393a63bc14d8" },
+		{ "RemoveEntityByID": "bc5daa8822124899" },
+		{ "RemoveEntityByID": "5fc656658e544161" },
+		{ "RemoveEntityByID": "5b3c446b7a8000dd" },
+		{ "RemoveEntityByID": "236cbcdce12750b1" },
+		{ "RemoveEntityByID": "dc213f6590876b3d" },
+		{ "RemoveEntityByID": "8efba0fde69e04e7" },
+		{ "RemoveEntityByID": "b3eb3c0ed0a3875b" },
+		{ "RemoveEntityByID": "7e8f919dbeef7b4c" },
+		{ "RemoveEntityByID": "617e0d3f1d453492" },
+		{ "RemoveEntityByID": "f5a67d9b88bbab3f" },
+		{ "RemoveEntityByID": "1880a464f13acdc7" },
+		{ "RemoveEntityByID": "254f03195da2d5ca" },
+		{ "RemoveEntityByID": "54193c4f683119ed" },
+		{ "RemoveEntityByID": "53c99e18457dcd7b" },
+		{ "RemoveEntityByID": "20a67fbf507107cc" },
+		{ "RemoveEntityByID": "e176c19094cf9837" },
+		{ "RemoveEntityByID": "96bfef586796de2a" },
+		{ "RemoveEntityByID": "1725ed948b34e7cd" },
+		{ "RemoveEntityByID": "9d73664b6624d554" },
+		{ "RemoveEntityByID": "36128bbb7dccba40" },
+		{ "RemoveEntityByID": "5c959322e00ceb72" },
+		{ "RemoveEntityByID": "30cef12fd0862611" },
+		{ "RemoveEntityByID": "ed4a2aece8b4254a" },
+		{ "RemoveEntityByID": "a812a0219dbb3b12" },
+		{ "RemoveEntityByID": "49e36c123b34c632" },
+		{ "RemoveEntityByID": "d06bbf2dfd867590" },
+		{ "RemoveEntityByID": "128e711790e8df76" },
+		{ "RemoveEntityByID": "e9ed9e23de38f0d2" },
+		{ "RemoveEntityByID": "b9f4d46a9e7b9a0b" },
+		{ "RemoveEntityByID": "e548b6317e053bc0" },
+		{ "RemoveEntityByID": "d2bbecaf401d77c1" },
+		{ "RemoveEntityByID": "b5feb1e58ebd346a" },
+		{ "RemoveEntityByID": "24b40bd551820a5d" },
+		{ "RemoveEntityByID": "452baa870e3dda02" },
+		{ "RemoveEntityByID": "e2e2a50bc17c4079" },
+		{ "RemoveEntityByID": "dcd2d36a3bd31172" },
+		{ "RemoveEntityByID": "526d71bcc90973b6" },
 		{
-			"SubEntityOperation": [
-				"2d8b95e403c267a7",
-				{
-					"SetPropertyValue": {
-						"property_name": "m_pCrowdMapResource",
-						"value": null
-					}
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "52d6a53e4247e97f",
+					"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+				},
+				"propertyName": "m_aValues",
+				"propertyOverride": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						{
+							"ref": "f16be170e8b57e10",
+							"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+						},
+						{
+							"ref": "ce5424bea1f49936",
+							"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+						},
+						"81054b9b95948930"
+					]
 				}
-			]
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "cf4e8140e4b40445",
+					"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+				},
+				"propertyName": "m_AIAreas",
+				"propertyOverride": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						{
+							"ref": "71cb57ebc2d4036a",
+							"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+						},
+						{
+							"ref": "f2b84dd2bb05bfe8",
+							"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+						},
+						{
+							"ref": "1a28aa361c3884cf",
+							"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+						},
+						{
+							"ref": "a5b8e5deea2de888",
+							"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+						},
+						"f68af26cb3988c48"
+					]
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "892f2c14ae5d0540",
+					"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+				},
+				"propertyName": "m_aValues",
+				"propertyOverride": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						{
+							"ref": "f16be170e8b57e10",
+							"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+						},
+						"81054b9b95948930"
+					]
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "2e5158db3a350045",
+					"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+				},
+				"propertyName": "m_aValues",
+				"propertyOverride": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						{
+							"ref": "f16be170e8b57e10",
+							"externalScene": "[assembly:/_pro/scenes/missions/edgy/mission_fox/scenario_fox.brick].pc_entitytype"
+						},
+						"81054b9b95948930"
+					]
+				}
+			}
 		}
 	],
 	"patchVersion": 6

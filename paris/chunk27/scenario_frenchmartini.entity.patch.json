@@ -2,8 +2,467 @@
 	"tempHash": "00250CEFFB630F13",
 	"tbluHash": "004FEBFEEA1D4177",
 	"patch": [
+		{ "RemoveEntityByID": "0635c9e9cbc6418c" },
+		{ "RemoveEntityByID": "379f368314c83a60" },
+		{ "RemoveEntityByID": "f4abaaf77afa6ee8" },
+		{ "RemoveEntityByID": "457c215a32f63988" },
+		{ "RemoveEntityByID": "d68f5ac24c678b66" },
+		{ "RemoveEntityByID": "47298740d60e60ce" },
+		{ "RemoveEntityByID": "6dd9d5a76c9fcc15" },
+		{ "RemoveEntityByID": "0ef8c79ad7c7d29f" },
+		{ "RemoveEntityByID": "42cd27fcb7987080" },
+		{ "RemoveEntityByID": "db6e9eb1cb781306" },
+		{ "RemoveEntityByID": "3390c2186b4db62b" },
+		{ "RemoveEntityByID": "ac20787cb912b5bd" },
+		{ "RemoveEntityByID": "5f617ef38be37bdf" },
+		{ "RemoveEntityByID": "394294a18dfa3595" },
+		{ "RemoveEntityByID": "4d595d6f255db751" },
+		{ "RemoveEntityByID": "ff167969f7b5a2be" },
+		{ "RemoveEntityByID": "9112b10f2a0859fa" },
+		{ "RemoveEntityByID": "03ad060e7383371b" },
+		{ "RemoveEntityByID": "bce150d0c1c901ae" },
+		{ "RemoveEntityByID": "c6dae301ca091ab9" },
+		{ "RemoveEntityByID": "273e506094ef62b1" },
+		{ "RemoveEntityByID": "12290f1c14f138e1" },
+		{ "RemoveEntityByID": "bf0a3d56972a3062" },
+		{ "RemoveEntityByID": "3741753274e0ab2f" },
+		{ "RemoveEntityByID": "76c726be5e2b9c31" },
+		{ "RemoveEntityByID": "b64803fd4963de3e" },
+		{ "RemoveEntityByID": "00faa6ed59003762" },
+		{ "RemoveEntityByID": "f866252679e3cf86" },
+		{ "RemoveEntityByID": "1d27abc9624cec5c" },
+		{ "RemoveEntityByID": "77bb299303b1cb9f" },
+		{ "RemoveEntityByID": "1483df3286152aea" },
+		{ "RemoveEntityByID": "2e5225e5c9072765" },
+		{ "RemoveEntityByID": "94f67dc80ec59455" },
+		{ "RemoveEntityByID": "8cc2330a1195b631" },
+		{ "RemoveEntityByID": "546cd80798978ad8" },
+		{ "RemoveEntityByID": "c55a81ddc644fc64" },
+		{ "RemoveEntityByID": "9cd6f8e77e421bcc" },
+		{ "RemoveEntityByID": "802007060f31af26" },
+		{ "RemoveEntityByID": "17c932e3e828b282" },
+		{ "RemoveEntityByID": "1e93b52229d3ca91" },
+		{ "RemoveEntityByID": "c06dfd1a0d9836cf" },
+		{ "RemoveEntityByID": "a60be5c9dc246a10" },
+		{ "RemoveEntityByID": "c9114d83773a60a2" },
+		{ "RemoveEntityByID": "53fed4f060ae146a" },
+		{ "RemoveEntityByID": "33de4b72665db408" },
+		{ "RemoveEntityByID": "10e2b7c1895af699" },
+		{ "RemoveEntityByID": "af45a3e126e6315b" },
+		{ "RemoveEntityByID": "00bf9c42c8eeb4c8" },
+		{ "RemoveEntityByID": "ddf7c6d1617983ba" },
+		{ "RemoveEntityByID": "fa53802fac17913d" },
+		{ "RemoveEntityByID": "dbbe35bd6bb9bc9d" },
+		{ "RemoveEntityByID": "b42cf19af67b785e" },
+		{ "RemoveEntityByID": "a10e7ef0098883f4" },
+		{ "RemoveEntityByID": "ba9e38ea2a721eed" },
+		{ "RemoveEntityByID": "2e7ef6cf4ded4926" },
+		{ "RemoveEntityByID": "942740b9838ea078" },
+		{ "RemoveEntityByID": "5f8bf58fe363e4e8" },
+		{ "RemoveEntityByID": "38b68cb316b3d44d" },
+		{ "RemoveEntityByID": "1ddae2541a8cd7ac" },
+		{ "RemoveEntityByID": "2cc78dd2f190094e" },
+		{ "RemoveEntityByID": "8dfee3cd67df3c37" },
+		{ "RemoveEntityByID": "31a74a0f2c3c659e" },
+		{ "RemoveEntityByID": "b1566dfec4609885" },
+		{ "RemoveEntityByID": "3f610c706e71a5fc" },
+		{ "RemoveEntityByID": "c1b71fa2b5c8016c" },
+		{ "RemoveEntityByID": "025d4d4edb12e755" },
+		{ "RemoveEntityByID": "d146e7ebdfe6c616" },
+		{ "RemoveEntityByID": "a2c60aba07483fa7" },
+		{ "RemoveEntityByID": "d983ccf92ff61575" },
+		{ "RemoveEntityByID": "604ffeb6feb8c2bc" },
+		{ "RemoveEntityByID": "943e28836b439033" },
+		{ "RemoveEntityByID": "510fe00013845235" },
+		{ "RemoveEntityByID": "38ce0912ab35f657" },
+		{ "RemoveEntityByID": "894d87d32a88ba33" },
+		{ "RemoveEntityByID": "bad2f08e982de7e4" },
+		{ "RemoveEntityByID": "aceaddc80d9d3b29" },
+		{ "RemoveEntityByID": "5b37b532baf9269a" },
+		{ "RemoveEntityByID": "4146260bb56ebdbc" },
+		{ "RemoveEntityByID": "d8ff21bde64bdf98" },
+		{ "RemoveEntityByID": "4ec9dfa9c2ae6f0f" },
+		{ "RemoveEntityByID": "9fc94f1107ebd64e" },
+		{ "RemoveEntityByID": "dbaffd67fa284bc3" },
+		{ "RemoveEntityByID": "33e409121a0d8d5b" },
 		{
-			"AddPropertyOverrideConnection": {
+			"SubEntityOperation": [
+				"b0447815f04cb07f",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["EventReceived", "Ambient"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"7d090cb54b5edfb8",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["OnTrue", "Poisoned"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"1126030598fe05c4",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["OnTrue", "Gasp"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"0d0b08c8faef4bd0",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["OnTrue", "Ambient"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"77c8234e7f77140f",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["OnTrue", "Poker"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"06f85a875531e658",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["OnTrue", "Clapping"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"cc8ceccde3d6a6b4",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["OnTrue", "Ambient"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": ["48b58cd9457f0b04", { "RemovePropertyByName": "Crowd_Emitter" }]
+		},
+		{
+			"SubEntityOperation": [
+				"2a4886bdbf499116",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["OnTrue", "Poison_KickingIn"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"c4ef55dbfcfbf371",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["OnTrue", "Poker"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": ["eb23213ca377d8ee", { "RemoveAllEventConnectionsForEvent": "OnTrue" }]
+		},
+		{
+			"SubEntityOperation": [
+				"0c006ccf932010de",
+				{
+					"RemoveAllEventConnectionsForTrigger": ["OnTrue", "Clapping"]
+				}
+			]
+		},
+		{
+			"SubEntityOperation": ["321a51e82fd0d78e", { "RemoveAllEventConnectionsForEvent": "OnTrue" }]
+		},
+		{
+			"SubEntityOperation": ["bf3ec33d9634dbbe", { "RemovePropertyByName": "m_eidParent" }]
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "7615afdece1ecb63",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -21.18159004004419
+						},
+						"position": {
+							"x": -222.4185028076172,
+							"y": 22.002870559692383,
+							"z": -0.538191020488739
+						}
+					}
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "7750269f2a2ecddb",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_AIAreas",
+				"propertyOverride": {
+					"type": "TArray<SEntityTemplateReference>",
+					"value": [
+						{
+							"ref": "56511b478207e14f",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "2d21b06c8260ea93",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "8eb13a74852d470a",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "78456cc851921dd0",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "bbd6af3ccc28b2d1",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "7a261416beaf8855",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "592297bc15a0030c",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "6953665df2c10017",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "f253b439c54b2a63",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "01e8a8f8c90b047d",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "678a29b9bfa55b6c",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "695be66f1e98c77d",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "f3f50ac27a3cfff2",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "00012f780c921611",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "c7f93864052066e1",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "1701d07b1a2a1964",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "36691d8c527db914",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "bb08c0d85b2922b5",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "ab1f75b9566ac9b8",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "2f11ad6822e5e650",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "5c621656d408603a",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "23d301f407955edb",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "d8727832e6766b80",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "be0dd46601130bbe",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "9f482d5d75b82380",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "85eded2dc4862c76",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "3d8f8a3425a6b32c",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "5bae8307904b5dd0",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "7efe69d76baf194c",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "295263bc4bf680b4",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "2920a42ba5fb670a",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "47c6fac04392570f",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "4070e4e1a8434ba0",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "fdfc7a32defc0637",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "362b1740d0e73183",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "0912a623b900f609",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "41e424862d41ef25",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "3ceb74c933ba7585",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "67209ff53626c169",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "9ef57ad296336a72",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "5f7f394fd10c3cb3",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "08d85d57776c93b0",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "e6121d09ed80d0fb",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "ecd9d5c04de981c1",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "2c4b1dec7796d20e",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						{
+							"ref": "c85c0dcbe58c5aac",
+							"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+						},
+						"5da72fa0b094a637",
+						"525ea58c3bdc5990",
+						"5803726502ddb075",
+						"7073b0dfcbfd6479",
+						"cf9c8e58bc5f6c3f",
+						"9f967717ae5b189e",
+						"72018860ea7eae85",
+						"172707dc0cb8db1f",
+						"d4c01ff22ed94c6e",
+						"187f318b4e0d7bee",
+						"c4cdd2ac7f8faa35",
+						"733451646534e6cd",
+						"2734a4670c8e08b2",
+						"d191adacf4730ca8"
+					]
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "7b94d05ee16daee5",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 30.59705257813796
+						},
+						"position": {
+							"x": -211.17970275878903,
+							"y": 36.82931900024414,
+							"z": -0.44999998807907104
+						}
+					}
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "01e1b2cf821195d7",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -30.2616709991703
+						},
+						"position": {
+							"x": -212.07369995117188,
+							"y": 35.87833023071289,
+							"z": -0.44999998807907104
+						}
+					}
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
 				"entity": {
 					"ref": "347a0672477e87f9",
 					"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
@@ -11,12 +470,15 @@
 				"propertyName": "m_pCrowdMapResource",
 				"propertyOverride": {
 					"type": "ZRuntimeResourceID",
-					"value": null
+					"value": {
+						"resource": "[assembly:/_pro/scenes/missions/paris/_scene_frenchmartini_crowd_street.crmd].pc_crmd",
+						"flag": "5F"
+					}
 				}
 			}
 		},
 		{
-			"AddPropertyOverrideConnection": {
+			"RemovePropertyOverrideConnection": {
 				"entity": {
 					"ref": "9b9f8e3c44090903",
 					"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
@@ -24,8 +486,68 @@
 				"propertyName": "m_pCrowdMapResource",
 				"propertyOverride": {
 					"type": "ZRuntimeResourceID",
-					"value": null
+					"value": {
+						"resource": "[assembly:/_pro/scenes/missions/paris/_scene_frenchmartini_crowd.crmd].pc_crmd",
+						"flag": "5F"
+					}
 				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "4731ddd0be68430d",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/crowd.brick].pc_entitytype"
+				},
+				"propertyName": "m_mTransform",
+				"propertyOverride": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -30.2616709991703
+						},
+						"position": {
+							"x": -212.07159423828125,
+							"y": 37.7453498840332,
+							"z": -0.44999998807907104
+						}
+					}
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "7886ba4fb2bec2b8",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/gameplay_palace_fashionshow.brick].pc_entitytype"
+				},
+				"propertyName": "CrowdAmbientState",
+				"propertyOverride": {
+					"type": "ZString",
+					"value": "Silent"
+				}
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "7886ba4fb2bec2b8",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/gameplay_palace_fashionshow.brick].pc_entitytype"
+				},
+				"propertyName": "VolumeRTPCAmbientBedWalla",
+				"propertyOverride": { "type": "float32", "value": -9.0 }
+			}
+		},
+		{
+			"RemovePropertyOverrideConnection": {
+				"entity": {
+					"ref": "7886ba4fb2bec2b8",
+					"externalScene": "[assembly:/_pro/scenes/missions/paris/gameplay_palace_fashionshow.brick].pc_entitytype"
+				},
+				"propertyName": "VolumeRTPCCloseProximityWalla",
+				"propertyOverride": { "type": "float32", "value": -18.0 }
 			}
 		}
 	],
