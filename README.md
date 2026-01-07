@@ -6,4 +6,4 @@ Removes all crowd (fake) NPCs from the game.
 
 ---
 
-`Thecatinyourceiling.NoCrowds` v1.0.0, by thecatinyourceiling. This README was automatically generated from the mod's manifest.
+`Thecatinyourceiling.NoCrowds` v1.1.0, by thecatinyourceiling. This README was automatically generated from the mod's manifest.
